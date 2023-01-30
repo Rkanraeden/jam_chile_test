@@ -1,0 +1,8 @@
+.logo{
+    display: center;
+    transition: transform 0.3s ease-out;
+}
+
+.logo:hover{
+    transform: scale(1.1);
+}
